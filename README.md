@@ -1,0 +1,2 @@
+# -Health-Care-connect-with-AI-system-
+ Health Care connect with AI system is the application of computer, mobile phones, internet , which aims to provide services electronically to improve patient's medical needs. In our Health Care connect with AI system, users can register as patients to store their medical data in the database and also health care service provider store their data in database to find best data for patients to get best service provider appointment. 
